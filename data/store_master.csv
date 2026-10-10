@@ -1,0 +1,21 @@
+store_id,store_name,region,city,store_format
+ST-001,Delhi Retail Hub,North,Delhi,High Street
+ST-002,Jaipur Retail Hub,North,Jaipur,Neighborhood
+ST-003,Lucknow Retail Hub,North,Lucknow,Outlet
+ST-004,Chandigarh Retail Hub,North,Chandigarh,Mall
+ST-005,Bengaluru Retail Hub,South,Bengaluru,High Street
+ST-006,Chennai Retail Hub,South,Chennai,Neighborhood
+ST-007,Hyderabad Retail Hub,South,Hyderabad,Outlet
+ST-008,Kochi Retail Hub,South,Kochi,Mall
+ST-009,Kolkata Retail Hub,East,Kolkata,High Street
+ST-010,Bhubaneswar Retail Hub,East,Bhubaneswar,Neighborhood
+ST-011,Guwahati Retail Hub,East,Guwahati,Outlet
+ST-012,Patna Retail Hub,East,Patna,Mall
+ST-013,Mumbai Retail Hub,West,Mumbai,High Street
+ST-014,Pune Retail Hub,West,Pune,Neighborhood
+ST-015,Ahmedabad Retail Hub,West,Ahmedabad,Outlet
+ST-016,Surat Retail Hub,West,Surat,Mall
+ST-017,Bhopal Retail Hub,Central,Bhopal,High Street
+ST-018,Indore Retail Hub,Central,Indore,Neighborhood
+ST-019,Nagpur Retail Hub,Central,Nagpur,Outlet
+ST-020,Raipur Retail Hub,Central,Raipur,Mall
