@@ -40,7 +40,8 @@ npm install
 npm run dev
 ```
 
-Open your browser and navigate to `http://localhost:3000` to launch the application.
+- Open your browser and navigate to `http://localhost:3000` to launch the application.
+- Upload the two files: `retail_weekly_sales.csv` and `store_master.csv` to launch the dashboard.
 
 ### Production Build & Linting
 ```bash
